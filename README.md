@@ -1,3 +1,4 @@
 # cj_chauhan
 this is my first repository
-auther is chirag chauhan
+<br
+<b>auther is chirag chauhan</b>
