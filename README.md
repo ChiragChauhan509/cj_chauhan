@@ -1,4 +1,4 @@
 # cj_chauhan
 this is my first repository
-<br
+<br>
 <b>auther is chirag chauhan</b>
